@@ -1,6 +1,5 @@
 # TeensyDelay
-Teensy 4.1 + AudioShield + 10pots
-Stereo delay :
+Stereo delay using Teensy 4.1 + AudioShield + 10pots :
 
 Pots usages :
   Pot 1 = Delay 1 Level
@@ -16,4 +15,8 @@ Pots usages :
   Pot 10 = AudioShield DSP EQ Top frequency output
   Can also be configured as intput frequency EQ.
   
-   ![alt text](https://raw.githubusercontent.com/DmaEvilCorp/TeensyDelay/main/AudioToolGraph.png) 
+  Use a lot of memory, sometime sound a bit weird, may switch to mono instead ?
+  Changing the delay time seem not be possible with a pot, it produce weird artefact...
+    Instead, I use a switch to change the settings of all delay.
+  
+   ![Audio Tool Graph](https://raw.githubusercontent.com/DmaEvilCorp/TeensyDelay/main/AudioToolGraph.PNG) 
