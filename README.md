@@ -21,3 +21,8 @@ Can also be configured as intput frequency EQ.
     Instead, I use a switch to change the settings of all delay.
   
    ![Audio Tool Graph](https://raw.githubusercontent.com/DmaEvilCorp/TeensyDelay/main/AudioToolGraph.PNG) 
+   
+ 
+Future modifications:
+Adding a lfo to modulate the level of feedback or the levels of delays
+Endless...
