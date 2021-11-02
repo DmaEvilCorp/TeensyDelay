@@ -13,7 +13,8 @@ Pots usages :
 - Pot 8 = AudioShield DSP EQ Mid frequency output
 - Pot 9 = AudioShield DSP EQ High frequency output
 - Pot 10 = AudioShield DSP EQ Top frequency output
-  Can also be configured as intput frequency EQ.
+
+Can also be configured as intput frequency EQ.
   
   Use a lot of memory, sometime sound a bit weird, may switch to mono instead ?
   Changing the delay time seem not be possible with a pot, it produce weird artefact...
